@@ -1,4 +1,4 @@
-impot java.util.Scanner
+impot java.util.Scanner;
 
 public class EstaciónAño { 
  public static void main(String[] args) {
