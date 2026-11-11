@@ -7,5 +7,3 @@
 
     print("El interes total es:", interes_total)
     print("La cuota a pagar es:", cuota_mensual)
-
-main()
